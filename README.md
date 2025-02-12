@@ -8,7 +8,7 @@
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
   </a>
 </p>
 <br/>
